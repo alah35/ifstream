@@ -2,6 +2,6 @@
 #include "Tasks.h"
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    task1();
     return 0;
 }
