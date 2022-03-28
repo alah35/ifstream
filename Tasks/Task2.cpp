@@ -22,10 +22,10 @@ void task2() {
         overview.open(path, std::ios::binary);
     }
 
-    while(!overview.eof()) {
-        char buffer[2];
+    while (overview) {
+        char buffer[20];
         overview.read(buffer, sizeof(buffer) - 1);
-        buffer[1] = 0;
+        buffer[overview.gcount()] = 0;
         std::cout << buffer;
     }
     overview.close();
