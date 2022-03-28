@@ -1,0 +1,9 @@
+There is nothing developers enjoy better than arguing about clean code: Dan Abramov, for example, has recently fueled the hype with his blog post, «Goodbye, Clean Code».
+
+However, “clean code” per se doesn’t even have a clear definition. The main book on the subject is Clean Code, where Robert «Uncle Bob» Martin states that there are perhaps as many definitions as there are programmers. But he doesn’t walk away from the fact with a conclusion that there’s no reason to discuss clean code, rather — compare several definitions and highlight general ideas. Therefore he cites the views of several outstanding programmers on what clean code is.
+
+So we have also become interested in what people in 2020 think of clean code. Have the views changed since the publication of the book? Do opinions vary in different IT fields (maybe backend developers perceive the idea of clean code differently from testers)?
+
+This spring, Uncle Bob comes to St. Petersburg to give talks at our three conferences: they are about .NET development, testing and JavaScript. Therefore, we’ve asked speakers from each of those conferences to share their opinion on clean code so we could compare the opinions of the industry experts in 2020.
+
+We've already published the results in Russian, and here's the English version. Since the topic is known to provoke discussions, feel free to give your own definition or argue about those already given!

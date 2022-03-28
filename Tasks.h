@@ -9,6 +9,9 @@
 #include <fstream>
 #include <string>
 
+
 #include "Tasks/Task1.cpp"
+#include "Tasks/Task2.cpp"
+
 
 #endif //IFSTREAM_TASKS_H
