@@ -22,4 +22,5 @@ void task4() {
         std::cout << "The file is a PNG" << std::endl;
     else
         std::cout << "The file is not a PNG" << std::endl;
+    ifs.close();
 }
