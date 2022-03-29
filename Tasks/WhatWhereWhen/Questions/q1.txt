@@ -1,1 +1,1 @@
-2 * 2 = ?
+What year did born C++?

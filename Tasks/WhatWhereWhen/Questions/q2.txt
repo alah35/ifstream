@@ -1,0 +1,3 @@
+int x = 5, y = 5;
+std::cout << x++ + y;
+What will be output to the console?

@@ -71,7 +71,8 @@ int www() {
             std::cout << "It is correct answer! Connoisseurs won in this round!" << std::endl;
         } else {
             spectators++;
-            std::cout << "Sorry, it is incorrect answer! Spectators won in this round!" << std::endl;
+            std::cout << "Sorry, it is incorrect answer! It is " << trueAnswer << std::endl;
+            std::cout << "Spectators won in this round!" << std::endl;
         }
         states[sector] = 0;
         round++;
