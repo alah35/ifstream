@@ -8,10 +8,11 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-
+#include <vector>
 
 #include "Tasks/Task1.cpp"
 #include "Tasks/Task2.cpp"
-
+#include "Tasks/Task3.cpp"
+#include "Tasks/Task4.cpp"
 
 #endif //IFSTREAM_TASKS_H
