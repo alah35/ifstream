@@ -30,3 +30,4 @@ void task2() {
     }
     overview.close();
 }
+//E:\HomeWorks\ifstream\Tasks\Task2\text.txt

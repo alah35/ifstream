@@ -24,3 +24,4 @@ void task4() {
         std::cout << "The file is not a PNG" << std::endl;
     ifs.close();
 }
+//E:\HomeWorks\ifstream\Tasks\Task4\image.png

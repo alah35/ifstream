@@ -50,3 +50,5 @@ void task3() {
     std::cout << "The greatest salary has: " << names[index] << " " << surnames[index] << std::endl;
     table.close();
 }
+
+//E:\HomeWorks\ifstream\Tasks\Task3\table.txt
